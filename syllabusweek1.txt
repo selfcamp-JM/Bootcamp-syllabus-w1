@@ -2,6 +2,11 @@
 
 Self camp syllabus for the first week:
  * Git and Github mastery.
+    Termins: Repository-Repo
+             Commit-save
+             Branches 
+             Pull 
+             Merge(added in another branch)
  * React js preperation list from FCC Medium.
  * Practice Freecodecamp minimum for two hour.
  * Pracrice Problem solwing from Codewars min for an hour.
