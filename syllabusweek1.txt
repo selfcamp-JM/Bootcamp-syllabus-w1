@@ -11,5 +11,15 @@ Self camp syllabus for the first week:
              Pull request
              Issue(added by jahongirmamadov.)
  * React js preperation list from FCC Medium.
+      ES6:  Let and Const
+            Arrow functions
+            Default parameters
+            for of loop
+            Spread attributes
+            Maps
+            Sets
+            Static methods
+            Getters and Setters
+    
  * Practice Freecodecamp minimum for two hour.
  * Pracrice Problem solwing from Codewars min for an hour.
