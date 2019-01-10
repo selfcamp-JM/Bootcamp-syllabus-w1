@@ -9,7 +9,8 @@ Self camp syllabus for the first week:
              Merge(added in another branch)
              Fork
              Pull request
-             Issue(added by jahongirmamadov.)
+             Issue
+             Clone(added by jahongirmamadov.)
  * React js preperation list from FCC Medium.
       ES6:  Let and Const
             Arrow functions
