@@ -1,0 +1,9 @@
+*Projects: ChatAPP : https://scrimba.com/p/pbNpTv/cRk94uW
+           Face recognition
+          
+*Topics: React Router :
+        Promises,async,callbacks: https://www.youtube.com/watch?v=s6SH72uAn3Q
+        Webpack : 
+        Docker:
+*Freecodeacamp min 1 hour
+*Codewars min 1 question
