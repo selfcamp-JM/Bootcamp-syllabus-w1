@@ -1,4 +1,4 @@
-*Projects: ChatAPP : https://scrimba.com/p/pbNpTv/cRk94uW
+*Projects: ChatAPP : https://www.youtube.com/watch?v=84GXJANOYFw&list=PLfUtdEcvGHFHdOYFXj4cY6ZIFkSp6MOuY
            Face recognition
           
 *Topics: React Router :
