@@ -2,6 +2,7 @@
            Face recognition
           
 *Topics: React Router :
+        AJAX&JSON: https://www.youtube.com/watch?v=xg7NRRdBWzg
         Promises,async,callbacks: https://www.youtube.com/watch?v=s6SH72uAn3Q
         Webpack : 
         Docker:
