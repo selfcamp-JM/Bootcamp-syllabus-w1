@@ -1,0 +1,8 @@
+Week 4:
+
+  *FreeCodeCamp practice more: React+Redux
+                               Data visualization -> D3
+  *One New React Project: E-Commerce: React phone ecommerce project
+  *Docker:Udemy & Kurs & Youube 
+  
+  Extra: JS Projects 
